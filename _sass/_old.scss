@@ -1,0 +1,206 @@
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Droid Sans', arial, serif;
+}
+
+strong {
+  font-weight: bold; 
+}
+
+b {
+  font-weight: bold; 
+}
+
+.text {
+  text-align:justify;
+}
+
+div#page {
+  width: 970px;
+  margin-left: 10px;
+  margin-top:100px;
+  font-family: 'Droid Sans', arial, serif; 
+}
+
+div#logo h1 {
+  display: none;
+}
+
+div#logo {
+  width: 200px;
+  height: 71px;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+ul#navigation {
+/*  position: absolute;
+  top: 50px;
+  left: 200px;
+  width: 720px;*/
+  background-color: #BEBABC;
+}
+
+ul#navigation li a {
+  padding: 7px 5px 5px 10px;
+  display: block;
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 16px;
+  font-family: 'Droid Sans', serif; 
+}
+
+ul#navigation li a:hover,
+ul#navigation li.on a {
+  background-color: #BA2F1D;
+}
+
+ul#navigation li {
+  display: block;
+  float: left;
+  background-color: #BEBABC;
+  width: 142px;
+  border-right: 2px solid white;
+}
+
+
+div#footer {
+  padding-top: 5px;
+  margin-top: 5px;
+  border-top: 1px solid #000000;
+  clear: both;
+  font-size: 10px;
+  text-align: center;
+}
+
+div#content {
+  margin-right: 10px;
+  float: left;
+  padding: 0 10px 10px 10px;
+  font-family: 'Droid Sans', arial, serif; 
+  font-size: 14px;
+}
+
+div#sidebar {
+  width: 270px;
+  float: left;
+  font-size: 14px;
+  background-color: #F4F4F4;
+  padding: 10px;
+}
+
+div#sidebar h2 {
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  border-bottom: 1px solid black;
+}
+
+div#sidebar div.element div.title {
+  padding: 5px;
+  background-color: #326f9d;
+  color: #ffffff;
+  font-family: 'Droid Sans', serif; 
+}
+
+div#sidebar form {
+  margin-top: 15px; 
+}
+
+div#sidebar form input,
+div#sidebar form textarea {
+  width: 90%;
+  margin-bottom: 5px;
+}
+
+div#sidebar div.element div.content {
+  padding: 5px;
+}
+
+div#sidebar div.element {
+  margin-bottom: 5px;
+}
+
+div#team div.berater {
+  clear: both;
+  margin-bottom: 20px;
+  overflow: hidden;
+}
+
+div#team div.berater div.img {
+  float:left;
+  width: 125px;
+}
+
+div#team div.berater div.img img {
+  width: 125px;
+}
+
+div#team div.berater h2 {
+  font-size: 18px;
+  border-bottom: 1px solid #000000;
+  margin-bottom: 10px;
+}
+
+div#team div.berater div.profile {
+  float:left;
+  padding-left: 10px;
+  width: 500px;
+}
+
+div#team div.berater div.profile dt {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+div#team div.berater div.profile dd {
+  margin-bottom: 10px;
+}
+
+div#content h1 {
+  font-size: 18px;
+  padding-bottom: 10px;
+  font-weight: bold;
+}
+
+div#content h2 {
+  font-size: 16px;
+  background-color: #326f9c;
+  color: #ffffff;
+  padding: 5px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+div#content div.beschreibung {
+  padding: 10px;
+  border-top: none; 
+}
+
+div#content p {
+  margin-bottom: 10px; 
+}
+
+
+div#referenzen {
+  margin-top: 20px;
+  text-align: center;
+}
+
+div#referenzen div.referenz {
+  margin-bottom: 20px; 
+}
+
+div#referenzen div.referenz p.claim {
+  font-style: italic; 
+}
+
+ul.blocklist li a {
+  display: block;
+  padding: 5px;
+  border-bottom: 1px solid #000000;
+}
+
+ul.blocklist {
+  margin-bottom: 10px;
+}

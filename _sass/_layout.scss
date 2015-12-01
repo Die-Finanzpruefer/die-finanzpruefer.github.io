@@ -34,11 +34,21 @@
 
     .page-link {
         color: $text-color;
+        display: inline-block;
+        color: #ffffff;
+        text-decoration: none;
+        background-color: #BEBABC;
+        padding: 5px 10px 5px 10px;
+
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
-            margin-right: 20px;
+            margin-right: 1px;
+        }
+
+        &:hover, &.active {
+          background-color: #BA2F1D;
         }
     }
 
@@ -47,8 +57,8 @@
         top: 9px;
         right: $spacing-unit / 2;
         background-color: $background-color;
-        border: 1px solid $grey-color-light;
-        border-radius: 5px;
+        //border: 1px solid $grey-color-light;
+        //border-radius: 5px;
         text-align: right;
 
         .menu-icon {
@@ -100,6 +110,9 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
+    clear: both;
+    font-size: 10px;
+    text-align: center;
 }
 
 .footer-heading {

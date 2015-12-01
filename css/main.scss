@@ -25,7 +25,7 @@ $grey-color-dark:  darken($grey-color, 25%);
 // Width of the content area
 $content-width:    900px;
 
-$on-palm:          600px;
+$on-palm:          643px;
 $on-laptop:        900px;
 
 
@@ -47,7 +47,17 @@ $on-laptop:        900px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
+        "yui-combo",
         "base",
         "layout",
-        "syntax-highlighting"
+        "syntax-highlighting",
+        "old"
 ;
+
+a.site-title {
+	display: block;
+
+	svg {
+		width: 200px;
+	}
+}
