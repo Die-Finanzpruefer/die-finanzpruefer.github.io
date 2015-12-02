@@ -5,38 +5,56 @@ permalink: /kontakt/
 menu: top
 ---
 
-<div id="content" class="hyphenate text"> 
-        
-        <h1 class="intro"> 
-          Gute Beratung ist sachlich, ehrlich & direkt!
-        </h1>
+
+# Gute Beratung ist sachlich, ehrlich & direkt!
         
         
-        <p>Am einfachsten erreichen Sie uns &uuml;ber unser Kontaktformular auf der rechten Seite! Wir melden uns umgehend bei Ihnen.</p>
-<p>&nbsp;</p>
-<p><strong>Gesch&auml;ftszeiten</strong></p>
-<p>Mo- Fr 09:00- 19:00 Uhr, <em>Sonderzeiten auf Anfrage</em></p>
-<p>&nbsp;</p>
-<p><strong>&nbsp;</strong><strong>B&uuml;ro K&ouml;ln, NRW<br /></strong></p>
-<p>BL Finanzpr&uuml;fer e.K. - Inhaber Walter Benda</p>
-<p>Bertramstr. 57</p>
-<p>51103 K&ouml;ln</p>
-<p>Telefon: 0221- 169 643- 0</p>
-<p>Telefax: 03212 - 1269 546</p>
-<p>E- Mail: <a href="mailto:kontakt@die-finanzpruefer.de">wb@die-finanzpruefer.de</a></p>
-<p>&nbsp;</p>
-<p><strong>&nbsp;</strong><strong>B&uuml;ro Kerpen, NRW<br /></strong></p>
-<p>BL Finanzpr&uuml;fer e. K. - B&uuml;roleiter Frank Lessmann</p>
-<p>Bruchh&ouml;he 9, 50169 Kerpen</p>
-<p>Telefon: 0151- 4180 7479</p>
-<p>E-Mail: fl@die-finanzpruefer.de</p>
-<p>&nbsp;</p>
-<p><strong>&nbsp;</strong><strong>B&uuml;ro Ludwigshafen, Rheinland-Pfalz</strong><strong><br /></strong></p>
-<p>BL Finanzpr&uuml;fer e. K. - B&uuml;roleiter Thomas Brauner</p>
-<p>Jakobsgasse 7, 67067 Ludwigshafen</p>
-<p>Telefon: 0621- 9534 5522</p>
-<p>E-Mail: tb@die-finanzpruefer.de</p>
-<p>&nbsp;</p>
+Am einfachsten erreichen Sie uns über [unser Kontaktformular](http://goo.gl/forms/hEk0VCq7wD)! Wir melden uns umgehend bei Ihnen.
+
+
+### __Geschäftszeiten__
+
+Mo- Fr 09:00- 19:00 Uhr, _Sonderzeiten auf Anfrage_
+
+
+### __Büro Köln, NRW__
+
+BL Finanzprüfer e.K. - Inhaber Walter Benda
+
+Bertramstr. 57
+
+51103 Köln
+
+Telefon: 0221- 169 643- 0
+
+Telefax: 03212 - 1269 546
+
+E-Mail: [kontakt@die-finanzpruefer.de](mailto:wb@die-finanzpruefer.de)
+
+
+### __Büro Kerpen, NRW__
+
+BL Finanzprüfer e. K. - Büroleiter Frank Lessmann
+
+Bruchhöhe 9, 50169 Kerpen
+
+Telefon: 0151- 4180 7479
+
+E-Mail: [fl@die-finanzpruefer.de](mailto:fl@die-finanzpruefer.de)
+
+ 
+
+### __Büro Ludwigshafen, Rheinland-Pfalz__
+
+BL Finanzprüfer e. K. - Büroleiter Thomas Brauner
+
+Jakobsgasse 7, 67067 Ludwigshafen
+
+Telefon: 0621- 9534 5522
+
+E-Mail: [tb@die-finanzpruefer.de](mailto:tb@die-finanzpruefer.de)
+
+
 <h2><span style="font-family: arial,helvetica,sans-serif; font-size: small;">Pflichtinformationen</span></h2>
 <div style="color: black; font-size: 0px;">
 <p><span style="font-size: xx-small; font-family: arial,helvetica,sans-serif;"><strong>Gewerberecht</strong></span></p>
