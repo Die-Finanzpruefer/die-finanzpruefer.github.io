@@ -21,7 +21,7 @@ Mo- Fr 09:00- 19:00 Uhr, _Sonderzeiten auf Anfrage_
 
 BL Finanzprüfer e.K. - Inhaber Walter Benda
 
-Bertramstr. 57
+Lüttringhauser Sr. 64
 
 51103 Köln
 
@@ -36,7 +36,7 @@ E-Mail: [kontakt@die-finanzpruefer.de](mailto:wb@die-finanzpruefer.de)
 
 BL Finanzprüfer e. K. - Büroleiter Frank Lessmann
 
-Bruchhöhe 9, 50169 Kerpen
+Ottostraße 4, 50170 Kerpen
 
 Telefon: 0151- 4180 7479
 
