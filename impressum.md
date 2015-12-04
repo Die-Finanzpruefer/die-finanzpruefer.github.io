@@ -11,7 +11,7 @@ Angaben nach §5 Telemediengesetz
 
 BL Finanzprüfer e. K. (ehemals Die Finanzprüfer GbR)
 
-Inhaber Walter Benda, Bertramstr. 57, D- 51103 Köln
+Inhaber Walter Benda, Lüttringhauser Sr. 64, D-51103 Köln
 
 Handelsregister Köln Nr. 29057
 
