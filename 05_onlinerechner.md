@@ -6,9 +6,9 @@ menu: top
 ---
 # Vergleich macht reich
 
-Sie wollen keine Beratung sondern direkt Ergebnisse? Kein Problem, wir empfehlen zwar eine gute Beratung, bieten Ihnen aber auch die Chance des direkten Online-Abschluss.
+Sie wollen keine Beratung sondern direkt Ergebnisse? Kein Problem, wir empfehlen zwar eine gute Beratung, bieten Ihnen aber auch die Chance des direkten <span style="font-weight: bolder;">Online-Abschluss ohne Beratung</span>.
 
-_Hinweis: Die Auslandskrankenversicherung, sowie der Pflege-Bahr bieten wir zzt. nur von der Barmenia an, da es zzt. keinen guten Vergleichsrechner gibt aber die Barmenia hier top Produkte hat._
+_Hinweis: Die Auslandskrankenversicherung, sowie der Pflege-Bahr bieten wir zzt. nur von der Barmenia an._
 
 [Auslandskrankenversicherung (Barmenia, kein Vergleich)](https://ssl.barmenia.de/de/service/online-abschluesse/jahres-reiseschutzbrief/rs.xhtml?ADM=00731624)
 
