@@ -14,16 +14,16 @@ Am einfachsten erreichen Sie uns über [unser Kontaktformular](http://goo.gl/for
 
 ### __Geschäftszeiten__
 
-Mo- Fr 09:00- 19:00 Uhr, _Sonderzeiten auf Anfrage_
+Mo- Fr 10:00- 19:00 Uhr, _Sonderzeiten auf Anfrage_
 
 
-### __Büro Köln, NRW__
+### __Versicherungen & Edelmetalle__
 
 BL Finanzprüfer e.K. - Inhaber Walter Benda
 
-Lüttringhauser Sr. 64
+Vorstadtstr. 49
 
-51103 Köln
+44866 Bochum
 
 Telefon: 0221- 169 643- 0
 
@@ -32,27 +32,27 @@ Telefax: 03212 - 1269 546
 E-Mail: [kontakt@die-finanzpruefer.de](mailto:wb@die-finanzpruefer.de)
 
 
-### __Büro Kerpen, NRW__
+### __Kooperationspartner Baufinanzierung & Immobilien__
 
-BL Finanzprüfer e. K. - Büroleiter Frank Lessmann
+Dresen Finanzberatung KG - Geschäftsführer Frank Lessmann & Torben Eygelshoven
 
 Ottostraße 4, 50170 Kerpen
 
-Telefon: 0151- 4180 7479
+Telefon: 02273 - 2230
 
 E-Mail: [fl@die-finanzpruefer.de](mailto:fl@die-finanzpruefer.de)
 
  
 
-### __Büro Ludwigshafen, Rheinland-Pfalz__
+### __Kooperationspartner Geldanlage & Vermögensverwaltung__
 
-BL Finanzprüfer e. K. - Büroleiter Thomas Brauner
+Bluhm Capital Wirtschafts-und Finanzberatungs GmbH & Co. KG - Geschäftsführer Günter Bluhm & Carsten Harlozynski
 
-Jakobsgasse 7, 67067 Ludwigshafen
+Marie-Curie-Straße 22, D-53359 Rheinbach
 
-Telefon: 0621- 9534 5522
+Telefon:  02226 15819-0
 
-E-Mail: [tb@die-finanzpruefer.de](mailto:tb@die-finanzpruefer.de)
+E-Mail: [Carsten Harlozynski <carsten.harlozynski@bluhmcapital.de>](mailto:carsten.harlozynski@bluhmcapital.de)
 
 
 <h2><span style="font-family: arial,helvetica,sans-serif; font-size: small;">Pflichtinformationen</span></h2>
@@ -75,7 +75,7 @@ E-Mail: [tb@die-finanzpruefer.de](mailto:tb@die-finanzpruefer.de)
 <p class="MsoNormal" style="text-align: justify;"><span style="font-size: xx-small; font-family: arial,helvetica,sans-serif;">Sofern  eine der genannten Bestimmungen  rechtlich unwirksam ist, bleiben die  &uuml;brigen Bestimmungen hiervon  unber&uuml;hrt. Die unwirksame Bestimmung wird  durch eine rechtswirksame  Bestimmung ersetzt, die den Sinn und Zweck  der unwirksamen am n&auml;chsten  kommt. Dies gilt auch f&uuml;r eventuell  vorhandene Reglungsl&uuml;cken.</span></p>
 <p class="MsoNormal" style="text-align: justify;">&nbsp;</p>
 <p class="MsoNormal" style="text-align: justify;"><span style="font-size: xx-small; font-family: arial,helvetica,sans-serif;"><strong>Facebook / Google</strong></span></p>
-<p class="MsoNormal" style="text-align: justify;"><span style="font-size: xx-small; font-family: arial,helvetica,sans-serif;">Wir sind nicht bei Facebook vertreten. Mit Hinweis auf den <a title="Blog Spreerecht.de" href="http://spreerecht.de/google-plus/2011-07/das-rechtliche-risiko-bei-googles-1-button-inkl-muster-fuer-die-datenschutzerklaerung" target="_blank">Blog Spreerecht.de</a> weisen wir zus&auml;tzlich auf folgende Sachverhalte bez&uuml;glich Google hin:</span></p>
+<p class="MsoNormal" style="text-align: justify;"><span style="font-size: xx-small; font-family: arial,helvetica,sans-serif;">Wir sind nicht bei Facebook vertreten. Mit Hinweis auf den <a title="Blog Spreerecht.de" href="http://spreerecht.de/google-plus/2011-07/das-rechtliche-risiko-bei-googles-1-button-inkl-muster-fuer-die-datenschutzerklaerung" target="_blank">Blog Spreerecht.de</a> weisen wir zus&auml;tzlich auf folgende Sachverhalte bez&uuml;glich Google & Facebook hin:</span></p>
 <p class="MsoNormal" style="text-align: justify;">&nbsp;</p>
 <blockquote>
 <p><span style="font-size: xx-small; font-family: arial,helvetica,sans-serif;">Unser Internetauftritt verwendet die  &ldquo;+1&Prime;-Schaltfl&auml;che&nbsp;des sozialen Netzwerkes Google Plus, welches von  der&nbsp;Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043,  United States betrieben wird (&ldquo;Google&rdquo;). Der Button ist an dem Zeichen  &ldquo;+1&Prime; auf wei&szlig;em oder farbigen Hintergrund erkennbar.</span></p>
