@@ -7,11 +7,11 @@ menu: top
 
 # Beratung nur vom Meister
 
-All unsere Berater haben mindestens einen Meister-Titel (z.B. Finanzfachwirt, Bankfachwirt, Versicherungsfachwirt) oder besser. Unsere jungen Partner müssen diese Prüfungen binnen der ersten drei Jahre ablegen oder ihr Vertrag wird nicht verlängert.
+Alle Mandanten von BL Finanzprüfer e. K. lernen nur qualifizierte Berater kennen. __Keine Berufsanfänger__ sondern nur etablierte Berater, die __mindestens einen Meister-Titel__ (z.B. Finanzfachwirt, Bankfachwirt, Versicherungsfachwirt) oder Studienabschluss haben. 
 
-__Sie wollen nur das Beste, wir bieten Ihnen nur die Besten!__
+__Profis aus Funk & Fernsehen__
 
-Wir sind Ihre Experten aus Funk, Fernsehen und der ganz klassischen Zeitung. Unsere Berater sind auf vielen Plattformen registriert (Focus, Focus Money etc.). Jeder unserer Experten erhält durchweg sehr gute Resonanzen!
+Unsere Experten aus treten regelmäßig in den Medien auf und unterrichten Verbraucher, wie sie sich gegen Banken, Versicherungen oder Kapitalanlagegesellschaften wehren können. Unten finden Sie eine kleine Auswahl unserer Auftritte.
 
 <p style="text-align: center;"><strong><span style="font-size: medium;">TV/ Rundfunk Auftritte</span></strong></p>
 <p><img src="http://1.bp.blogspot.com/-B95r_lfQl7s/UIU9YFQpqkI/AAAAAAAAAOg/HdZimOesK84/s1600/TV.tif" alt="" /><strong><span style="font-size: medium;">&nbsp;</span></strong></p>
@@ -19,7 +19,17 @@ Wir sind Ihre Experten aus Funk, Fernsehen und der ganz klassischen Zeitung. Uns
 <p style="text-align: center;"><strong><span style="font-size: medium;">Fachzeitschriften / Printmedien</span></strong></p>
 <p><strong><span style="font-size: medium;"> <img src="http://1.bp.blogspot.com/-hG6V2UiH4cA/UIU9s_y59ZI/AAAAAAAAAOo/olUCDVbCG-A/s1600/Fachzeitung.tif" alt="" />&nbsp;&nbsp;</span></strong></p>
 
-### Unten finden Sie einen Auszug, was Mandanten &uuml;ber uns sagen:
+
+
+### __Bewertungen unserer Mandanten__
+
+Nach der Scheidung brauchte ich einen neuen Berater, weil der von meinem Ex ein langjähriger Freund dieses war. Hr. Bender hat mir sehr stark geholfen. Er hat bei der Trennung der Unterlagen geholfen, mit dem Vertreter von meinem Ex gesprochen und bei der Versicherung alles sauber übergeleitet. Obwohl es mir schlecht ging wusste ich, dass zumindest bei den Versicherungen alles in guten Händen ist. Vielen lieben Dank!
+
+22.01.2017 von __Sonja Mühlbach__
+
+Eigentlich wolltenwir eine fertige  Immobilie kaufen und haben uns nach über zwei Jahren vergeblicher Suche nun entschieden ein eigenes Haus zu Bauen. In der gesamten Zeit hat uns Herr Benda immer wieder sehr gut beraten. Er hat uns stets verlässliche Auskunft gegeben und konnte uns entsprechende Angebote rechnen, wenn wir wieder dachten es wäre so weit. Auch beim Kauf hat er uns mit dem Bänker zusammen unterstützt und viele der Unterlagen zusammeng etragen. Herzlichen Dank an Herrn Benda
+
+07.01.2017 von __Marcel Schildgen__
 
 __Ist gut!__
 
