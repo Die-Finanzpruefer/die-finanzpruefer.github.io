@@ -5,7 +5,7 @@ permalink: /dienstleistungen/
 menu: top
 ---
 
-# Unsere Dienstleistungen
+## Unsere Dienstleistungen
 
 <img id="mitte" src="https://github.com/Die-Finanzpruefer/die-finanzpruefer.github.io/blob/master/Dienstleistungen.png?raw=true">
 
