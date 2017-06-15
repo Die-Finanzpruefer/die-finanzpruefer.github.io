@@ -23,71 +23,96 @@ Unsere Experten aus treten regelmäßig in den Medien auf und unterrichten Verbr
 
 ### __Bewertungen unserer Mandanten__
 
-Mein Sohn hat sich als Handwerker selbstständig gemacht. Da mir der Vertreter von der Handwerkskammer komisch vor kam habe ich meinen Berater hin geschickt. Herr Benda hat die Unterlagen meines Sohnes geprüft und konnte bessere Angebote machen als die XXXX (Name aus Datenschutzgründen geschwärzt).
+__Danke für alles__
+
+> Mein Sohn hat sich als Handwerker selbstständig gemacht. Da mir der Vertreter von der Handwerkskammer komisch vor kam habe ich meinen Berater hin geschickt. Herr Benda hat die Unterlagen meines Sohnes geprüft und konnte bessere Angebote machen als die XXXX (Name aus Datenschutzgründen geschwärzt).
+
 06.05.2017 von __Ulrike Meßner-Koch__
 
-Da unser alter Berater XXXX (Name aus Datenschutzgründen geschwärzt) in Ruhestand war, brauchten wir einen neuen. Die jungen Kollegen empfangen wir aber als bieder darum haben wir im Netz gesucht und dabei Herrn Benda gefunden. Er hat sich jetzt unserer Versicherungssachen angenommen und ist der neue Betreuer. Gut gefallen hat uns, dass er nicht alle schlecht geredet hat sondern die guten Verträge behalten hat. Im Ergebnis mussten wir so fast nichts ändern.
+__Ehrliche Beratung__
+
+> Da unser alter Berater XXXX (Name aus Datenschutzgründen geschwärzt) in Ruhestand war, brauchten wir einen neuen. Die jungen Kollegen empfangen wir aber als bieder darum haben wir im Netz gesucht und dabei Herrn Benda gefunden. Er hat sich jetzt unserer Versicherungssachen angenommen und ist der neue Betreuer. Gut gefallen hat uns, dass er nicht alle schlecht geredet hat sondern die guten Verträge behalten hat. Im Ergebnis mussten wir so fast nichts ändern.
+
 26.04.2017 von __Anastasia V.__
 
-Im Rahmen einer Baufinanzierung hat uns der Bänker auch zu einigen Versicherungen geraten. Da wir vorher schon die Konditionen fürs Haus verglichen haben, wollten wir das auch bei Versicherungen. Herr Benda konnte uns ein besseres Angebot als die Bank und unserer Vertreter machen. Der Papierkram ging schnell und einfach. Wir verstehen allerdings nicht warum Banken und Versicherungen gefühlte 267 Unterschriften brauchen?
+__Er hat unser neues Haus finanziert__
+
+> Im Rahmen einer Baufinanzierung hat uns der Bänker auch zu einigen Versicherungen geraten. Da wir vorher schon die Konditionen fürs Haus verglichen haben, wollten wir das auch bei Versicherungen. Herr Benda konnte uns ein besseres Angebot als die Bank und unserer Vertreter machen. Der Papierkram ging schnell und einfach. Wir verstehen allerdings nicht warum Banken und Versicherungen gefühlte 267 Unterschriften brauchen?
+
 22.04.2017 von __Thomas Langlein__
 
-Wir sind über Empfehlung auf Herrn Benda gestoßen. Er hat unseren Vermögensberater abgelöst, weil er bessere Angebote hatte.
-04.04.2017 von __Vorname Name__
 
+> Wir sind über Empfehlung auf Herrn Benda gestoßen. Er hat unseren Vermögensberater abgelöst, weil er bessere Angebote hatte.
+04.04.2017 von __Vorname Name__
 Danke für die Bewertung, auch wenn wir diese gerade nicht zuordnen können. Wenn Sie uns Ihren Namen noch verraten, bedanken wir uns ganz artig!
+
 04.04.2017 von __Walter Benda__
 
-Wir sind auf den Blog www.versicherungskritiker.de gestoßen, weil wir versucht haben online die passenden Versicherungen für uns zu finden. Dort war die Firma hier verlinkt. Nachdem wir unsere online Angebot vorgelegt hatten, bekamen wir hier zusätzlich noch eine Beratung und kamen so zum passenden Schluss. Sind zwar jetzt 15€ mehr im Jahr als bei Check24 aber dafür haben wir einen top Mann! Danke dafür.
+__Gute Bewertungen waren der Grund__
+
+> Wir sind auf den Blog www.versicherungskritiker.de gestoßen, weil wir versucht haben online die passenden Versicherungen für uns zu finden. Dort war die Firma hier verlinkt. Nachdem wir unsere online Angebot vorgelegt hatten, bekamen wir hier zusätzlich noch eine Beratung und kamen so zum passenden Schluss. Sind zwar jetzt 15€ mehr im Jahr als bei Check24 aber dafür haben wir einen top Mann! Danke dafür.
+
 26.03.2017 __Mark Kubichs__
 
-Lieber Walter, Du machst den ganzen Finanzmist jetzt seit zwölf Jahren für mich. Klar hinterlasse ich dir eine Bewertung!
-18.03.2017 von __Sebastian SKuLlCrAcKa__
+__Der aller-, aller-, aller Beste Berater__
 
+> Lieber Walter, Du machst den ganzen Finanzmist jetzt seit zwölf Jahren für mich. Klar hinterlasse ich dir eine Bewertung!
+18.03.2017 von __Sebastian SKuLlCrAcKa__
 Lieber Sebi, ich freue mich über dein überschwengliches Lob. Beim nächsten Mal nur bitte daran denken, dass andere das online lesen können. Ich hab dich auch lieb. ;)
+
 19.03.2017 von __Walter Benda__
 
-Wir haben Herrn Benda am Anfang seiner Karriere vor ca. zehn Jahren getroffen. Damals hat er mit seinem Ausbilder unsere Hausfinanzierung gemacht. Wir freuen uns, dass er auch heute noch aktiv ist und mit seinen Kollegen zusammen jetzt die Prolongation für die Hausfinanzierung sowie unsere Versicherungen auf Vordermann gebracht hat. Mit freundlichen Grüßen
+__Seit zehn Jahren unser Berater__
+
+> Wir haben Herrn Benda am Anfang seiner Karriere vor ca. zehn Jahren getroffen. Damals hat er mit seinem Ausbilder unsere Hausfinanzierung gemacht. Wir freuen uns, dass er auch heute noch aktiv ist und mit seinen Kollegen zusammen jetzt die Prolongation für die Hausfinanzierung sowie unsere Versicherungen auf Vordermann gebracht hat. Mit freundlichen Grüßen
+
 10.03.2017 von __Familie Hinsfeld__
 
-Ich war schon einige Monate auf der Suceh nach einer Berufsunfähigkeitsversicherung. Weil ich krank bin ist das aber nicht so einfach. Walter hat mir dann alternativen dazu aufgezeigt. Am Ende haben wir über meinen Chef aber einen Vertrag gemacht, wo ich keine Gesundheitsfragen machen musste und kam so doch noch an meinen Schutz. Ich bin 28 und Kindergärtnerin.
+__Gute Versicherung zum kleinen Preis__
+> Ich war schon einige Monate auf der Suceh nach einer Berufsunfähigkeitsversicherung. Weil ich krank bin ist das aber nicht so einfach. Walter hat mir dann alternativen dazu aufgezeigt. Am Ende haben wir über meinen Chef aber einen Vertrag gemacht, wo ich keine Gesundheitsfragen machen musste und kam so doch noch an meinen Schutz. Ich bin 28 und Kindergärtnerin.
+
 10.03.2017 von __Conny__
 
-War ok. Der Antrag für Krankengeld und Arbeitskraft hat fast zwei Wochen gedauert. Das geht bestimmt schneller.
+> War ok. Der Antrag für Krankengeld und Arbeitskraft hat fast zwei Wochen gedauert. Das geht bestimmt schneller.
+
 03.03.2017 von __SagIchNicht__
 
 __Antwort BL Finanzprüfer e. K.__ Sehr geehrter Unbekannter oder sehr geehrte Unbekannte. Es tut uns leid, dass wir Sie nicht zur vollsten Zufriedenheit überzeugen konnten. Wir bemühen uns. Wenn Sie mit uns sprechen, können wir uns bestimmt mit einer Flasche Wein, Kinokarten o. Ä. revanchieren, denn wir wollen zufriedene Kunden. Wir freuen uns, dass Sie uns mit dem Abschluss trotzdem das Vertrauen geschenkt haben. Freundlicher Gruß Walter Benda iV für BL Finanzprüfer e. K.
+
 05.03.2017 von __Walter Benda__
 
-Das Rundum-Sorglos-Paket!
-Anfangs war ich skeptisch, hatte ich doch im Laufe der Jahre einige Versicherungsvertreter kennen gerlent. Den meisten wurde schnell die Türe vorgeschlagen, weil sie nicht auf meine Situation ein gingen sondern ihr Programm runter spulten. Es haben sich durch Ehe, Kinder und Arbeitsplatzwechsel einige Verträge angehäuft, die es zu analysieren galt. Im Rahmen eines Ersttelefonats haben wir einen groben Fahrplan erstellt, der im Laufe der Beratung immer wieder angepasst wurde. In Summe ward es sicherlich ein 20 Stunden Projekt, die Kommunikation mit meiner Frau noch nicht mitgerechnet. Heraus kamen in Anbetracht der Situation erstaunlich einfache Lösungen. Wir erbaten uns einige Bedenkzeit und haben in 2017 doch alles so umgestellt, wie es uns die Herren Benda und XXXXXX (Namen aus Datenschutzgründen entfernt) vorgestellt haben.
+__Das Rundum-Sorglos-Paket!__
+> Anfangs war ich skeptisch, hatte ich doch im Laufe der Jahre einige Versicherungsvertreter kennen gerlent. Den meisten wurde schnell die Türe vorgeschlagen, weil sie nicht auf meine Situation ein gingen sondern ihr Programm runter spulten. Es haben sich durch Ehe, Kinder und Arbeitsplatzwechsel einige Verträge angehäuft, die es zu analysieren galt. Im Rahmen eines Ersttelefonats haben wir einen groben Fahrplan erstellt, der im Laufe der Beratung immer wieder angepasst wurde. In Summe ward es sicherlich ein 20 Stunden Projekt, die Kommunikation mit meiner Frau noch nicht mitgerechnet. Heraus kamen in Anbetracht der Situation erstaunlich einfache Lösungen. Wir erbaten uns einige Bedenkzeit und haben in 2017 doch alles so umgestellt, wie es uns die Herren Benda und XXXXXX (Namen aus Datenschutzgründen entfernt) vorgestellt haben.
 Wir hoffen auf eine weiterhin gute Betreuung so lange wir in Bonn wohnhaft sind, dankend für Ihre Zeit sowie Ihr Engagement.
+
 15.02.2017 von __T.H. Müller__
 
-Brauchte nur kurz Urlaubsversicherungen. Ging schnell und einfach am Telefon.
+> Brauchte nur kurz Urlaubsversicherungen. Ging schnell und einfach am Telefon.
 
 11.02.2017 von __Wicked Willy92__
 
-Für unseren beiden Kinder brauchten wir Versicherungen. Anfangs hatten wir zwar wage Vorstellungen aber der Berater hat uns klar gemacht, dass es günstigere Lösungen als Lebensversicherung gibt. Die Kleinen haben jetzt eine Krankenhausversicherung sowie Fonds. Beides zusammen ist günstiger als unsere Lösung. Wir sind begeistert. Bitte bleiben Sie so!
+__Unsere Kinder sind jetzt sehr gut versichert__
+
+> Für unseren beiden Kinder brauchten wir Versicherungen. Anfangs hatten wir zwar wage Vorstellungen aber der Berater hat uns klar gemacht, dass es günstigere Lösungen als Lebensversicherung gibt. Die Kleinen haben jetzt eine Krankenhausversicherung sowie Fonds. Beides zusammen ist günstiger als unsere Lösung. Wir sind begeistert. Bitte bleiben Sie so!
 
 09.02.2017 von __Gerd und Claudia S.__
 
-Nach der Scheidung brauchte ich einen neuen Berater, weil der von meinem Ex ein langjähriger Freund dieses war. Hr. Bender hat mir sehr stark geholfen. Er hat bei der Trennung der Unterlagen geholfen, mit dem Vertreter von meinem Ex gesprochen und bei der Versicherung alles sauber übergeleitet. Obwohl es mir schlecht ging wusste ich, dass zumindest bei den Versicherungen alles in guten Händen ist. Vielen lieben Dank!
+__Super Berater. Immer für einen da!__
+> Nach der Scheidung brauchte ich einen neuen Berater, weil der von meinem Ex ein langjähriger Freund dieses war. Hr. Bender hat mir sehr stark geholfen. Er hat bei der Trennung der Unterlagen geholfen, mit dem Vertreter von meinem Ex gesprochen und bei der Versicherung alles sauber übergeleitet. Obwohl es mir schlecht ging wusste ich, dass zumindest bei den Versicherungen alles in guten Händen ist. Vielen lieben Dank!
 
 22.01.2017 von __Sonja Mühlbach__
 
-Eigentlich wolltenwir eine fertige  Immobilie kaufen und haben uns nach über zwei Jahren vergeblicher Suche nun entschieden ein eigenes Haus zu Bauen. In der gesamten Zeit hat uns Herr Benda immer wieder sehr gut beraten. Er hat uns stets verlässliche Auskunft gegeben und konnte uns entsprechende Angebote rechnen, wenn wir wieder dachten es wäre so weit. Auch beim Kauf hat er uns mit dem Bänker zusammen unterstützt und viele der Unterlagen zusammeng etragen. Herzlichen Dank an Herrn Benda
+__Das beste Angebot__
+> Eigentlich wolltenwir eine fertige  Immobilie kaufen und haben uns nach über zwei Jahren vergeblicher Suche nun entschieden ein eigenes Haus zu Bauen. In der gesamten Zeit hat uns Herr Benda immer wieder sehr gut beraten. Er hat uns stets verlässliche Auskunft gegeben und konnte uns entsprechende Angebote rechnen, wenn wir wieder dachten es wäre so weit. Auch beim Kauf hat er uns mit dem Bänker zusammen unterstützt und viele der Unterlagen zusammeng etragen. Herzlichen Dank an Herrn Benda
 
 07.01.2017 von __Marcel Schildgen__
 
 __Ist gut!__
-
 > Für Frau und mich brauchten wir die Krankenversicherung und Todesfallversicherung für Kinder. Hat verschiedene Sachen gezeigt und war mit ein Kollege da der auch Polnisch kann. War gut! Wir freuen uns weil wir haben ein Berater mit dem auch wir können sprechen ohne sprachliches Probleme. Entschuldigung für die vielleicht Fehler in diese Text.
 
 22.12.2011 von __Darek Pokansky__
 
 __Sehr kompakt__
-
 > Meine Anliegen wurden kurz und kompakt bearbeitet. Habe Herrn Bender meinen Ordner überlassen, dann hat er die Sachen ausgewertet und mit mir besprochen. Für meine Familie ist er jetzt der neue Betreuer.
 
 20.12.2011 von __Marius F.__
@@ -160,11 +185,9 @@ __Sehr zu empfehlen__
 
 __Sehr erfreulich ... es geht eben auch anders ...__
 
-Erfrischend junger und dynamischer Querdenker, der meine Fragen bislang immer verständlich und auf den Punkt gebracht beantwortet hat.
+> Erfrischend junger und dynamischer Querdenker, der meine Fragen bislang immer verständlich und auf den Punkt gebracht beantwortet hat.
 
 08.12.2010 von __Christoph Schauer__
-
- 
 
 __Sehr zuverlässig__
 
