@@ -23,6 +23,38 @@ Unsere Experten aus treten regelmäßig in den Medien auf und unterrichten Verbr
 
 ### __Bewertungen unserer Mandanten__
 
+Wir sind auf den Blog www.versicherungskritiker.de gestoßen, weil wir versucht haben online die passenden Versicherungen für uns zu finden. Dort war die Firma hier verlinkt. Nachdem wir unsere online Angebot vorgelegt hatten, bekamen wir hier zusätzlich noch eine Beratung und kamen so zum passenden Schluss. Sind zwar jetzt 15€ mehr im Jahr als bei Check24 aber dafür haben wir einen top Mann! Danke dafür.
+26.03.2017 __Mark Kubichs__
+
+Lieber Walter, Du machst den ganzen Finanzmist jetzt seit zwölf Jahren für mich. Klar hinterlasse ich dir eine Bewertung!
+18.03.2017 von __Sebastian SKuLlCrAcKa__
+Lieber Sebi, ich freue mich über dein überschwengliches Lob. Beim nächsten Mal nur bitte daran denken, dass andere das online lesen können. Ich hab dich auch lieb. ;)
+19.03.2017 von __Walter Benda__
+
+Wir haben Herrn Benda am Anfang seiner Karriere vor ca. zehn Jahren getroffen. Damals hat er mit seinem Ausbilder unsere Hausfinanzierung gemacht. Wir freuen uns, dass er auch heute noch aktiv ist und mit seinen Kollegen zusammen jetzt die Prolongation für die Hausfinanzierung sowie unsere Versicherungen auf Vordermann gebracht hat. Mit freundlichen Grüßen
+10.03.2017 von __Familie Hinsfeld__
+
+Ich war schon einige Monate auf der Suceh nach einer Berufsunfähigkeitsversicherung. Weil ich krank bin ist das aber nicht so einfach. Walter hat mir dann alternativen dazu aufgezeigt. Am Ende haben wir über meinen Chef aber einen Vertrag gemacht, wo ich keine Gesundheitsfragen machen musste und kam so doch noch an meinen Schutz. Ich bin 28 und Kindergärtnerin.
+10.03.2017 von __Conny__
+
+War ok. Der Antrag für Krankengeld und Arbeitskraft hat fast zwei Wochen gedauert. Das geht bestimmt schneller.
+03.03.2017 von __SagIchNicht__
+__Antwort BL Finanzprüfer e. K.__ Sehr geehrter Unbekannter oder sehr geehrte Unbekannte. Es tut uns leid, dass wir Sie nicht zur vollsten Zufriedenheit überzeugen konnten. Wir bemühen uns. Wenn Sie mit uns sprechen, können wir uns bestimmt mit einer Flasche Wein, Kinokarten o. Ä. revanchieren, denn wir wollen zufriedene Kunden. Wir freuen uns, dass Sie uns mit dem Abschluss trotzdem das Vertrauen geschenkt haben. Freundlicher Gruß Walter Benda iV für BL Finanzprüfer e. K.
+05.03.2017 von __Walter Benda__
+
+Das Rundum-Sorglos-Paket!
+Anfangs war ich skeptisch, hatte ich doch im Laufe der Jahre einige Versicherungsvertreter kennen gerlent. Den meisten wurde schnell die Türe vorgeschlagen, weil sie nicht auf meine Situation ein gingen sondern ihr Programm runter spulten. Es haben sich durch Ehe, Kinder und Arbeitsplatzwechsel einige Verträge angehäuft, die es zu analysieren galt. Im Rahmen eines Ersttelefonats haben wir einen groben Fahrplan erstellt, der im Laufe der Beratung immer wieder angepasst wurde. In Summe ward es sicherlich ein 20 Stunden Projekt, die Kommunikation mit meiner Frau noch nicht mitgerechnet. Heraus kamen in Anbetracht der Situation erstaunlich einfache Lösungen. Wir erbaten uns einige Bedenkzeit und haben in 2017 doch alles so umgestellt, wie es uns die Herren Benda und XXXXXX (Namen aus Datenschutzgründen entfernt) vorgestellt haben.
+Wir hoffen auf eine weiterhin gute Betreuung so lange wir in Bonn wohnhaft sind, dankend für Ihre Zeit sowie Ihr Engagement.
+15.02.2017 von __T.H. Müller__
+
+Brauchte nur kurz Urlaubsversicherungen. Ging schnell und einfach am Telefon.
+
+11.02.2017 von __Wicked Willy92__
+
+Für unseren beiden Kinder brauchten wir Versicherungen. Anfangs hatten wir zwar wage Vorstellungen aber der Berater hat uns klar gemacht, dass es günstigere Lösungen als Lebensversicherung gibt. Die Kleinen haben jetzt eine Krankenhausversicherung sowie Fonds. Beides zusammen ist günstiger als unsere Lösung. Wir sind begeistert. Bitte bleiben Sie so!
+
+09.02.2017 von __Gerd und Claudia S.__
+
 Nach der Scheidung brauchte ich einen neuen Berater, weil der von meinem Ex ein langjähriger Freund dieses war. Hr. Bender hat mir sehr stark geholfen. Er hat bei der Trennung der Unterlagen geholfen, mit dem Vertreter von meinem Ex gesprochen und bei der Versicherung alles sauber übergeleitet. Obwohl es mir schlecht ging wusste ich, dass zumindest bei den Versicherungen alles in guten Händen ist. Vielen lieben Dank!
 
 22.01.2017 von __Sonja Mühlbach__
