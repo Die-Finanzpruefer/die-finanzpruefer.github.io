@@ -23,11 +23,27 @@ Unsere Experten aus treten regelmäßig in den Medien auf und unterrichten Verbr
 
 ### __Bewertungen unserer Mandanten__
 
+Mein Sohn hat sich als Handwerker selbstständig gemacht. Da mir der Vertreter von der Handwerkskammer komisch vor kam habe ich meinen Berater hin geschickt. Herr Benda hat die Unterlagen meines Sohnes geprüft und konnte bessere Angebote machen als die XXXX (Name aus Datenschutzgründen geschwärzt).
+06.05.2017 von __Ulrike Meßner-Koch__
+
+Da unser alter Berater XXXX (Name aus Datenschutzgründen geschwärzt) in Ruhestand war, brauchten wir einen neuen. Die jungen Kollegen empfangen wir aber als bieder darum haben wir im Netz gesucht und dabei Herrn Benda gefunden. Er hat sich jetzt unserer Versicherungssachen angenommen und ist der neue Betreuer. Gut gefallen hat uns, dass er nicht alle schlecht geredet hat sondern die guten Verträge behalten hat. Im Ergebnis mussten wir so fast nichts ändern.
+26.04.2017 von __Anastasia V.__
+
+Im Rahmen einer Baufinanzierung hat uns der Bänker auch zu einigen Versicherungen geraten. Da wir vorher schon die Konditionen fürs Haus verglichen haben, wollten wir das auch bei Versicherungen. Herr Benda konnte uns ein besseres Angebot als die Bank und unserer Vertreter machen. Der Papierkram ging schnell und einfach. Wir verstehen allerdings nicht warum Banken und Versicherungen gefühlte 267 Unterschriften brauchen?
+22.04.2017 von __Thomas Langlein__
+
+Wir sind über Empfehlung auf Herrn Benda gestoßen. Er hat unseren Vermögensberater abgelöst, weil er bessere Angebote hatte.
+04.04.2017 von __Vorname Name__
+
+Danke für die Bewertung, auch wenn wir diese gerade nicht zuordnen können. Wenn Sie uns Ihren Namen noch verraten, bedanken wir uns ganz artig!
+04.04.2017 von __Walter Benda__
+
 Wir sind auf den Blog www.versicherungskritiker.de gestoßen, weil wir versucht haben online die passenden Versicherungen für uns zu finden. Dort war die Firma hier verlinkt. Nachdem wir unsere online Angebot vorgelegt hatten, bekamen wir hier zusätzlich noch eine Beratung und kamen so zum passenden Schluss. Sind zwar jetzt 15€ mehr im Jahr als bei Check24 aber dafür haben wir einen top Mann! Danke dafür.
 26.03.2017 __Mark Kubichs__
 
 Lieber Walter, Du machst den ganzen Finanzmist jetzt seit zwölf Jahren für mich. Klar hinterlasse ich dir eine Bewertung!
 18.03.2017 von __Sebastian SKuLlCrAcKa__
+
 Lieber Sebi, ich freue mich über dein überschwengliches Lob. Beim nächsten Mal nur bitte daran denken, dass andere das online lesen können. Ich hab dich auch lieb. ;)
 19.03.2017 von __Walter Benda__
 
@@ -39,6 +55,7 @@ Ich war schon einige Monate auf der Suceh nach einer Berufsunfähigkeitsversiche
 
 War ok. Der Antrag für Krankengeld und Arbeitskraft hat fast zwei Wochen gedauert. Das geht bestimmt schneller.
 03.03.2017 von __SagIchNicht__
+
 __Antwort BL Finanzprüfer e. K.__ Sehr geehrter Unbekannter oder sehr geehrte Unbekannte. Es tut uns leid, dass wir Sie nicht zur vollsten Zufriedenheit überzeugen konnten. Wir bemühen uns. Wenn Sie mit uns sprechen, können wir uns bestimmt mit einer Flasche Wein, Kinokarten o. Ä. revanchieren, denn wir wollen zufriedene Kunden. Wir freuen uns, dass Sie uns mit dem Abschluss trotzdem das Vertrauen geschenkt haben. Freundlicher Gruß Walter Benda iV für BL Finanzprüfer e. K.
 05.03.2017 von __Walter Benda__
 
