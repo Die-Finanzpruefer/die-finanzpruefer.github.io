@@ -9,13 +9,12 @@ permalink: /impressum/
 
 Angaben nach §5 Telemediengesetz
 
-BL Finanzprüfer e. K. (ehemals Die Finanzprüfer GbR)
-
-Inhaber Walter Benda, Lüttringhauser Sr. 64, D-51103 Köln
+BL Finanzprüfer e. K. - Inhaber Walter Benda | Vorstadtstr. 49 | D-44866 Bochum
+Ehemals bis 2012:  Die Finanzprüfer GbR | Lüttringhauser Sr. 64 | D-51103 Köln
 
 Handelsregister Köln Nr. 29057
 
- 
+Der Umzug erfolgte zum 01.06.2017. Die neuen Nummern für den Standort Bochum sind beantragt, jedoch noch nicht erteilt.
 
 ## Kontaktmöglichkeiten
 
@@ -31,9 +30,6 @@ Telefax: 03212 - 1269 546
 Diese Internetseite ist ein kommerzieller Auftritt.
 
 IHK Köln, Deutschland (Germany): Versicherungsmakler nach § 34d I. GewO mit der Registernummer D-DSKW-60Q4P- 87
-
-IHK Köln, Deutschland (Germany): Finanzanlagenvermittler nach § 34f GewO betrangt (zzt. in Bearbeitung)
-
 
 Gewerbeaufsicht Köln, Deutschland (Germany): Kapitalanlageberater nach § 34c I. GewO unter dem Zeichen 32-321/10-322/10-ME-BF
 
