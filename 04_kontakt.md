@@ -6,20 +6,20 @@ menu: top
 ---
 
 
-# Gute Beratung ist sachlich, ehrlich & direkt!
+<h1>Gute Beratung ist sachlich, ehrlich & direkt!<h1>
         
         
 Am einfachsten erreichen Sie uns über [unser Kontaktformular](http://goo.gl/forms/hEk0VCq7wD)! Wir melden uns umgehend bei Ihnen.
 
 
 
-## __Geschäftszeiten__
+<h2>Geschäftszeiten<h2>
 
 Mo- Fr 10:00- 19:00 Uhr, _Sonderzeiten auf Anfrage_
 
 
 
-## __Versicherungen & Edelmetalle__
+<h2>Versicherungen & Edelmetalle</h2>
 
 BL Finanzprüfer e.K. - Inhaber Walter Benda
 
@@ -35,7 +35,7 @@ E-Mail: [Walter Benda | wb@die-finanzpruefer.de](mailto:wb@die-finanzpruefer.de)
 
 
 
-## __Kooperationspartner Baufinanzierung & Immobilien__
+<h2>Kooperationspartner Baufinanzierung & Immobilien</h2>
 
 Dresen Finanzberatung KG - Geschäftsführer Frank Lessmann & Torben Eygelshoven
 
@@ -48,7 +48,7 @@ E-Mail: [Frank Lessmann | fl@die-finanzpruefer.de](mailto:fl@die-finanzpruefer.d
  
 
 
-## __Kooperationspartner Geldanlage & Vermögensverwaltung__
+<h2>Kooperationspartner Geldanlage & Vermögensverwaltung</h2>
 
 Bluhm Capital Wirtschafts-und Finanzberatungs GmbH & Co. KG - Geschäftsführer Günter Bluhm & Carsten Harlozynski
 
