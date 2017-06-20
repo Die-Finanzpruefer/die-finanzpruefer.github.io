@@ -11,13 +11,15 @@ Alle Mandanten von BL Finanzprüfer e. K. lernen nur qualifizierte Berater kenne
 
 __Profis aus Funk & Fernsehen__
 
-Unsere Experten aus treten regelmäßig in den Medien auf und unterrichten Verbraucher, wie sie sich gegen Banken, Versicherungen oder Kapitalanlagegesellschaften wehren können. Unten finden Sie eine kleine Auswahl unserer Auftritte.
+Unsere Experten treten regelmäßig in den Medien auf. Sie unterrichten Verbraucher wie sie sich gegen Banken, Versicherungen oder Kapitalanlagegesellschaften wehren können. Unten finden Sie eine kleine Auswahl unserer Auftritte.
 
 <p style="text-align: center;"><strong><span style="font-size: medium;">TV/ Rundfunk Auftritte</span></strong></p>
 <p><img src="http://1.bp.blogspot.com/-B95r_lfQl7s/UIU9YFQpqkI/AAAAAAAAAOg/HdZimOesK84/s1600/TV.tif" alt="" /><strong><span style="font-size: medium;">&nbsp;</span></strong></p>
 
 <p style="text-align: center;"><strong><span style="font-size: medium;">Fachzeitschriften / Printmedien</span></strong></p>
 <p><strong><span style="font-size: medium;"> <img src="http://1.bp.blogspot.com/-hG6V2UiH4cA/UIU9s_y59ZI/AAAAAAAAAOo/olUCDVbCG-A/s1600/Fachzeitung.tif" alt="" />&nbsp;&nbsp;</span></strong></p>
+
+
 
 
 
