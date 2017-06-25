@@ -8,8 +8,6 @@ menu: top
 
 Sie wollen __keine Beratung sondern direkt Ergebnisse__? Kein Problem, wir empfehlen zwar eine gute Beratung, bieten Ihnen aber auch die Chance des direkten <span style="font-weight: bolder;">Online-Abschluss ohne Beratung</span>.
 
-_Hinweis: Die Auslandskrankenversicherung, sowie der Pflege-Bahr bieten wir zzt. nur von der Barmenia an._
-
 # Bank
 
 [Kostenfreies Giro Konto](https://www.procheck24.de/einsurance/giro2/doCrossEntry.do?cspident=6B2879F853F9AFAD69F275729A4D24C4)
