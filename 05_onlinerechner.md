@@ -34,13 +34,13 @@ Sie wollen __keine Beratung sondern direkt Ergebnisse__? Kein Problem, wir empfe
 
 # Versicherung
 
-[Hausratversicherung](https://www.inobroker.de/fwd/vergleiche/hr.jsp?mID=194769&partnerID=public)
-
 [Haftpflicht Privathaftpflicht](https://www.inobroker.de/fwd/vergleiche/phv.jsp?mID=194769&partnerID=public)
 
 [Haftpflicht Tierhalter Hund / Hundehalterhaftpflicht](https://www.inobroker.de/fwd/vergleiche/thvh.jsp?mID=194769&partnerID=public)
 
 [Haftpflicht Tierhalter Pferd / Pferdehalterhaftpflicht](https://www.inobroker.de/fwd/vergleiche/thvp.jsp?mID=194769&partnerID=public)
+
+[Hausratversicherung](https://www.inobroker.de/fwd/vergleiche/hr.jsp?mID=194769&partnerID=public)
 
 [Kfz-Vergleich](https://www.inobroker.de/fwd/vergleiche/kfz.jsp?mID=194769&partnerID=public)
 
@@ -57,8 +57,6 @@ Sie wollen __keine Beratung sondern direkt Ergebnisse__? Kein Problem, wir empfe
 [Risikolebensversicherung mit online-Gesundheitsprüfung](https://www.procheck24.de/einsurance/rlv/doEntry.do?pid=rlv&b2bid=48&cpid=procheck24&cspident=6B2879F853F9AFAD69F275729A4D24C4)
 
 [Sterbegeldversicherung **ohne** Gesundheitsprüfung (Barmenia)](https://ssl.barmenia.de/de/service/online-abschluesse/sterbegeld_1/sterbegeldversicherung_2.xhtml?ADM=00731624)
-
-[Unfallversicherung](http://vergleich.pecumax.net/pecupool/UN?PP_Partner=MAK19273)
 
 [Vermögenspolice](https://www.inobroker.de/fwd/partner/promotions/vermoegenspolice.jsp?mID=194769&partnerID=public)
 
