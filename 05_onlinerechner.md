@@ -20,6 +20,8 @@ Sie wollen __keine Beratung sondern direkt Ergebnisse__? Kein Problem, wir empfe
 
 [Auslandskrankenversicherung / Reisekrankenversicherung](https://www.inobroker.de/fwd/vergleiche/rkv.jsp?mID=194769&partnerID=public)
 
+[Krankenhaus & OP-Versicherung für Kinder von der Barmenia](https://ssl.barmenia.de/de/service/online-abschluesse/stationaere-vorsorge/tops_1.xhtml?ADM=00731624?ADM=00731624)
+
 [Krankenkassen Vergleich](http://www.kassensucheservice.de/index.php?m=2000361&iframe=false)
 
 [Private Krankenversicherung - Tarifcheck anfordern](https://www.inobroker.de/fwd/partner/promotions/kv_allgemein.jsp?mID=194769&partnerID=public)
