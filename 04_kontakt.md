@@ -17,46 +17,28 @@ Am einfachsten erreichen Sie uns über [unser Kontaktformular](http://goo.gl/for
 
 Mo- Fr 10:00- 19:00 Uhr, _Sonderzeiten auf Anfrage_
 
-
-
 <h2>Versicherungen & Edelmetalle</h2>
 
-BL Finanzprüfer e.K. - Inhaber Walter Benda
-
-Vorstadtstr. 49
-
-44866 Bochum
-
-Telefon: 0221- 169 643- 0
-
-Telefax: 03212 - 1269 546
-
-E-Mail: [Walter Benda | wb@die-finanzpruefer.de](mailto:wb@die-finanzpruefer.de)
-
-
+BL Finanzprüfer e.K. - Inhaber Walter Benda  
+Vorstadtstr. 49  
+44866 Bochum  
+Telefon: 0221- 169 643- 0  
+Telefax: 03212 - 1269 546  
+E-Mail: [Walter Benda | wb@die-finanzpruefer.de](mailto:wb@die-finanzpruefer.de)  
 
 <h2>Kooperationspartner Baufinanzierung & Immobilien</h2>
 
-Dresen Finanzberatung KG - Geschäftsführer Frank Lessmann & Torben Eygelshoven
-
-Ottostraße 4, 50170 Kerpen
-
-Telefon: 02273 - 2230
-
-E-Mail: [Frank Lessmann | fl@die-finanzpruefer.de](mailto:fl@die-finanzpruefer.de)
-
- 
-
+Dresen Finanzberatung KG - Geschäftsführer Frank Lessmann & Torben Eygelshoven  
+Ottostraße 4, 50170 Kerpen  
+Telefon: 02273 - 2230  
+E-Mail: [Frank Lessmann | fl@die-finanzpruefer.de](mailto:fl@die-finanzpruefer.de)  
 
 <h2>Kooperationspartner Geldanlage & Vermögensverwaltung</h2>
 
-Bluhm Capital Wirtschafts-und Finanzberatungs GmbH & Co. KG - Geschäftsführer Günter Bluhm & Carsten Harlozynski
-
-Marie-Curie-Straße 22, D-53359 Rheinbach
-
-Telefon:  02226 15819-0
-
-E-Mail: [Carsten Harlozynski | carsten.harlozynski@bluhmcapital.de](mailto:carsten.harlozynski@bluhmcapital.de)
+Bluhm Capital Wirtschafts-und Finanzberatungs GmbH & Co. KG - Geschäftsführer Günter Bluhm & Carsten Harlozynski  
+Marie-Curie-Straße 22, D-53359 Rheinbach  
+Telefon:  02226 15819-0  
+E-Mail: [Carsten Harlozynski | carsten.harlozynski@bluhmcapital.de](mailto:carsten.harlozynski@bluhmcapital.de)  
 
 
 
