@@ -8,7 +8,7 @@ menu: top
 
 <h1>Gute Beratung ist sachlich, ehrlich & direkt. Kontaktieren Sie uns jetzt!<h1>
 <h2>Telefon 02327-6047695</h2>
-
+<h2>E-Mail wb@die-finanzpruefer.de</h2>
 
 
 <h2>Geschäftszeiten<h2>
