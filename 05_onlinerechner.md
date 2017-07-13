@@ -60,6 +60,8 @@ Sie wollen __keine Beratung sondern direkt Ergebnisse__? Kein Problem, wir empfe
 
 [Sterbegeldversicherung **ohne** Gesundheitsprüfung (Barmenia)](https://ssl.barmenia.de/de/service/online-abschluesse/sterbegeld_1/sterbegeldversicherung_2.xhtml?ADM=00731624)
 
+[Unfallversicherung](https://ssl.innosystems.net/cgi-bin/formulare/formulare.pl?user=SDVA86&programm=hpr&untermandant=SDVAPP-0030-0130&hprid=61069&template=st_unf)
+
 [Vermögenspolice](https://www.inobroker.de/fwd/partner/promotions/vermoegenspolice.jsp?mID=194769&partnerID=public)
 
 [Vereinsversicherung für Vereinsvorstände - Angebotsanforderung](https://www.inobroker.de/fwd/partner/promotions/haftpflichtvereinsvorstand.jsp?mID=194769&partnerID=public)
@@ -68,11 +70,17 @@ Sie wollen __keine Beratung sondern direkt Ergebnisse__? Kein Problem, wir empfe
 
 # Wohnen
 
+[Bauherrenhaftpflicht](https://ssl.innosystems.net/cgi-bin/formulare/formulare.pl?user=SDVA86&programm=hpr&untermandant=SDVAPP-0030-0130&hprid=61069&template=st_bau)
+
+[Bauleistungsversicherung](https://sniver.innosystems.net/user/auth?user.name=SDVAPP-0030-0130&module=bal)
+
 [DSL-Vergleich](https://www.procheck24.de/einsurance/csp/doHomepageEntry.do?cspident=6B2879F853F9AFAD69F275729A4D24C4&p=9)
 
 [Gas-Vergleich](https://www.procheck24.de/einsurance/csp/doHomepageEntry.do?cspident=6B2879F853F9AFAD69F275729A4D24C4&p=8)
 
 [Hausratversicherung](https://www.inobroker.de/fwd/vergleiche/hr.jsp?mID=194769&partnerID=public)
+
+[Haus- und Grundbesitzer Haftpflicht](https://ssl.innosystems.net/cgi-bin/formulare/formulare.pl?user=SDVA86&programm=hpr&untermandant=SDVAPP-0030-0130&hprid=61069&template=st_hug)
 
 [Mietnomaden Versicherung](https://www.inobroker.de/fwd/partner/promotions/mietnomadenversicherung.jsp?mID=194769&partnerID=public)
 
