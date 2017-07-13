@@ -11,7 +11,7 @@ menu: top
 <h2>E-Mail wb@die-finanzpruefer.de</h2>
 
 
-<h2>Geschäftszeiten<h2>
+Geschäftszeiten  
 
 Mo- Fr 10:00- 19:00 Uhr, _Sonderzeiten auf Anfrage_
 
