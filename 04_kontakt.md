@@ -6,10 +6,8 @@ menu: top
 ---
 
 
-<h1>Gute Beratung ist sachlich, ehrlich & direkt!<h1>
-        
-        
-Am einfachsten erreichen Sie uns über [unser Kontaktformular](http://goo.gl/forms/hEk0VCq7wD)! Wir melden uns umgehend bei Ihnen.
+<h1>Gute Beratung ist sachlich, ehrlich & direkt. Kontaktieren Sie uns jetzt!<h1>
+<h2>Telefon 02327-6047695</h2>
 
 
 
@@ -22,7 +20,7 @@ Mo- Fr 10:00- 19:00 Uhr, _Sonderzeiten auf Anfrage_
 BL Finanzprüfer e.K. - Inhaber Walter Benda  
 Vorstadtstr. 49  
 44866 Bochum  
-Telefon: 0221- 169 643- 0  
+Telefon: 02327-6047695  
 Telefax: 03212 - 1269 546  
 E-Mail: [Walter Benda | wb@die-finanzpruefer.de](mailto:wb@die-finanzpruefer.de)  
 
